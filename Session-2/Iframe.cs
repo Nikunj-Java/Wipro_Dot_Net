@@ -15,7 +15,7 @@ namespace SeleniumAutomation_1
             using(var driver= new ChromeDriver())
             {
                 driver.Manage().Window.Maximize();
-                driver.Navigate().GoToUrl("D://Simpli Learn//Dot_net//Demo//iframe.html");
+                driver.Navigate().GoToUrl("https://www.freecodecamp.org/news/what-is-an-iframe-html-example/");
 
                 //for me i had prepared dummy html file with iframe
                 //my path is : D://Simpli Learn//Dot_net//Demo//iframe.html
@@ -26,10 +26,10 @@ namespace SeleniumAutomation_1
                 Console.WriteLine("Document Loaded");
 
                 var iframe = driver.FindElements(By.TagName("iframe"));
-                Assert.IsTrue(iframe.Count == 2);
+                //Assert.IsTrue(iframe.Count == 2);
 
-                driver.SwitchTo().Frame(0);
-                Console.WriteLine("I frame Switched");
+                //driver.SwitchTo().Frame(0);
+                Console.WriteLine("I frame count:"+ iframe.Count);
 
 
                 //task : search for a website and check for numbers of iframes
