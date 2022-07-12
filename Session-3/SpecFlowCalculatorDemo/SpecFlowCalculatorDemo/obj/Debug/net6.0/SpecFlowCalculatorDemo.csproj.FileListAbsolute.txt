@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\SpecFlowCalculatorDemo\SpecFlowCalculatorDemo\bin\Debug\net6.0\SpecFlowCalculatorDemo.deps.json
+C:\Users\Admin\source\repos\SpecFlowCalculatorDemo\SpecFlowCalculatorDemo\bin\Debug\net6.0\SpecFlowCalculatorDemo.dll
+C:\Users\Admin\source\repos\SpecFlowCalculatorDemo\SpecFlowCalculatorDemo\bin\Debug\net6.0\SpecFlowCalculatorDemo.pdb
+C:\Users\Admin\source\repos\SpecFlowCalculatorDemo\SpecFlowCalculatorDemo\obj\Debug\net6.0\SpecFlowCalculatorDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SpecFlowCalculatorDemo\SpecFlowCalculatorDemo\obj\Debug\net6.0\SpecFlowCalculatorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SpecFlowCalculatorDemo\SpecFlowCalculatorDemo\obj\Debug\net6.0\SpecFlowCalculatorDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SpecFlowCalculatorDemo\SpecFlowCalculatorDemo\obj\Debug\net6.0\SpecFlowCalculatorDemo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SpecFlowCalculatorDemo\SpecFlowCalculatorDemo\obj\Debug\net6.0\SpecFlowCalculatorDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SpecFlowCalculatorDemo\SpecFlowCalculatorDemo\obj\Debug\net6.0\SpecFlowCalculatorDemo.dll
+C:\Users\Admin\source\repos\SpecFlowCalculatorDemo\SpecFlowCalculatorDemo\obj\Debug\net6.0\refint\SpecFlowCalculatorDemo.dll
+C:\Users\Admin\source\repos\SpecFlowCalculatorDemo\SpecFlowCalculatorDemo\obj\Debug\net6.0\SpecFlowCalculatorDemo.pdb
+C:\Users\Admin\source\repos\SpecFlowCalculatorDemo\SpecFlowCalculatorDemo\obj\Debug\net6.0\ref\SpecFlowCalculatorDemo.dll

@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\SpecFlowLoginProject\SpecFlowLoginProject\bin\Debug\net6.0\SpecFlowLoginProject.deps.json
+C:\Users\Admin\source\repos\SpecFlowLoginProject\SpecFlowLoginProject\bin\Debug\net6.0\SpecFlowLoginProject.dll
+C:\Users\Admin\source\repos\SpecFlowLoginProject\SpecFlowLoginProject\bin\Debug\net6.0\SpecFlowLoginProject.pdb
+C:\Users\Admin\source\repos\SpecFlowLoginProject\SpecFlowLoginProject\obj\Debug\net6.0\SpecFlowLoginProject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SpecFlowLoginProject\SpecFlowLoginProject\obj\Debug\net6.0\SpecFlowLoginProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SpecFlowLoginProject\SpecFlowLoginProject\obj\Debug\net6.0\SpecFlowLoginProject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SpecFlowLoginProject\SpecFlowLoginProject\obj\Debug\net6.0\SpecFlowLoginProject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SpecFlowLoginProject\SpecFlowLoginProject\obj\Debug\net6.0\SpecFlowLoginProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SpecFlowLoginProject\SpecFlowLoginProject\obj\Debug\net6.0\SpecFlowLoginProject.dll
+C:\Users\Admin\source\repos\SpecFlowLoginProject\SpecFlowLoginProject\obj\Debug\net6.0\refint\SpecFlowLoginProject.dll
+C:\Users\Admin\source\repos\SpecFlowLoginProject\SpecFlowLoginProject\obj\Debug\net6.0\SpecFlowLoginProject.pdb
+C:\Users\Admin\source\repos\SpecFlowLoginProject\SpecFlowLoginProject\obj\Debug\net6.0\ref\SpecFlowLoginProject.dll
