@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\LoginTableDemo\LoginTableDemo\bin\Debug\net6.0\LoginTableDemo.deps.json
+C:\Users\Admin\source\repos\LoginTableDemo\LoginTableDemo\bin\Debug\net6.0\LoginTableDemo.dll
+C:\Users\Admin\source\repos\LoginTableDemo\LoginTableDemo\bin\Debug\net6.0\LoginTableDemo.pdb
+C:\Users\Admin\source\repos\LoginTableDemo\LoginTableDemo\obj\Debug\net6.0\LoginTableDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LoginTableDemo\LoginTableDemo\obj\Debug\net6.0\LoginTableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LoginTableDemo\LoginTableDemo\obj\Debug\net6.0\LoginTableDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LoginTableDemo\LoginTableDemo\obj\Debug\net6.0\LoginTableDemo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LoginTableDemo\LoginTableDemo\obj\Debug\net6.0\LoginTableDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LoginTableDemo\LoginTableDemo\obj\Debug\net6.0\LoginTableDemo.dll
+C:\Users\Admin\source\repos\LoginTableDemo\LoginTableDemo\obj\Debug\net6.0\refint\LoginTableDemo.dll
+C:\Users\Admin\source\repos\LoginTableDemo\LoginTableDemo\obj\Debug\net6.0\LoginTableDemo.pdb
+C:\Users\Admin\source\repos\LoginTableDemo\LoginTableDemo\obj\Debug\net6.0\ref\LoginTableDemo.dll
