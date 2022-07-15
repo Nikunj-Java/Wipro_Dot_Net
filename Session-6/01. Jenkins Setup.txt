@@ -42,6 +42,13 @@ STEP: 6 INSTALL SUGGESTED PLUGINS
 STEP:7 ADD PERSONAL DETAILS
 
 
+STEP:8 GOTO > MANAGE JENKINS > SEARCH FOR msbuild on available tab
+
+check the check box and click on intsall without restart
+
+
+
+
 
 
 
