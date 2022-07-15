@@ -1,0 +1,48 @@
+STEP:1 Install Java-8 or 11
+
+	link: https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html
+
+STEP:2 Download Jenkins.war file
+
+	link: https://www.jenkins.io/download/
+
+	copy that file to C:/ProgramFiles
+STEP:3 open CommandPrompt
+
+cd ..
+cd ..
+cd ProgramFiles
+
+STEP:4 JAVA VERSION
+
+if you are using java 8 then simpli write
+
+> java -jar jenkins.war
+
+but if you are using multiple java version , then do the following steps
+	download jdk 8
+>path_of_your_jdk_bin_file\java -jar jenkins.war
+
+for eg:
+
+>.\java\jdk1.8.0_202\bin\java -jar jenkins.war
+
+
+once you hit enter button 
+
+STEP: 5 ONCE installation begins and you will get one secreat admin password
+
+
+for me it is like: f34f11153ddb4fd093f09fa941fa8227
+
+
+now goto browser:localhost:8080 
+STEP: 6 INSTALL SUGGESTED PLUGINS
+
+STEP:7 ADD PERSONAL DETAILS
+
+
+
+
+
+
