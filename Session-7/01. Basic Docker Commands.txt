@@ -32,6 +32,7 @@ for ubuntu (add 'sudo' before each command)
 
 
 5. To Deploy Container Image From git hub and deploy as container
+-----------------------------------------------------------------
 path:https://github.com/Nikunj-Java/docker_master.git
 
 > git clone https://github.com/Nikunj-Java/docker_master.git
@@ -39,9 +40,14 @@ path:https://github.com/Nikunj-Java/docker_master.git
 > cd docker_master
 
 6. To build an Image
+------------------------------------------------------
 > docker build -t phpcode . ////(. is mendatory)
 
-7. Pull docker images from docker hub
+7. To run image on container 
+------------------------------------------------------
+> docker run -d --name Mycontainer -p 80:80 phpcode
 
+8. Pull docker images from docker hub
+------------------------------------------------------
 > docker pull ubuntu
 > docker pull mysql
