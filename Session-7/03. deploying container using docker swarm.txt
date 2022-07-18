@@ -1,0 +1,28 @@
+************************************************************************************************
+Deploy The Container using docker swarm
+************************************************************************************************
+
+
+> docker build -t phpcode .
+
+check the image is successfully build or not?
+
+
+> docker images
+
+-------------------------------------------------------------------------------
+initialising docker swarm cluster and deploying the container to the cluster
+------------------------------------------------------------------------------- 
+> docker swarm init
+> docker node ls
+
+once service is configure ,deploy the custom docker image on docker swam cluster by below code
+
+> docker service create -p 80:80 --name webserver phpcode
+
+> docker service ls
+
+> curl localhost:80
+
+if index.php page opens in cmd that mean we have successfully deployed our app on cluster
+
