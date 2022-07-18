@@ -1,0 +1,47 @@
+***********************************************************************
+Docker Basis Commands
+***********************************************************************
+open cmd and execute belo set of commands
+
+for ubuntu (add 'sudo' before each command)
+
+1. To veryfy docker installation
+--------------------------------
+> docker -v 
+	or
+> docker --version
+ 	or
+> docker info
+
+2. To check list of images
+--------------------------------
+> docker images
+
+3. To List container 
+--------------------------------
+> docker container ls
+
+	or 
+
+> docker ps -a
+
+4. To check container volume
+---------------------------------
+
+>docker volume ls
+
+
+5. To Deploy Container Image From git hub and deploy as container
+path:https://github.com/Nikunj-Java/docker_master.git
+
+> git clone https://github.com/Nikunj-Java/docker_master.git
+> dir
+> cd docker_master
+
+6. To build an Image
+> docker build -t phpcode . ////(. is mendatory)
+
+7. Pull docker images from docker hub
+
+> docker pull ubuntu
+> docker pull mysql
