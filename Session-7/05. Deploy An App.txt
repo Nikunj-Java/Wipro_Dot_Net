@@ -1,0 +1,12 @@
+1. clone the git repository
+
+> git clone http://github.com/dotnet/dotnet-docker
+
+2. move to the root directory 
+> cd dotnet-docker/samples/aspnetapp/aspnetapp
+
+3. build the app
+> dotnet run
+
+4. check the output:
+> open browser http://localhost:5000
