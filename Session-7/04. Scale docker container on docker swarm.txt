@@ -1,0 +1,26 @@
+************************************************************************************************
+SCALE CONTAINER ON DOCKER SWARM
+************************************************************************************************
+
+>docker service create -p 80:80 --name <any name to the service> <imagename>
+
+eg:  docker service create -p 6000:80 --name demoservice phpcode ///change the port if port is unavailable
+
+
+
+-----to check the status of service : running or not??--------
+
+> docker service ls
+
+-----to scale the service--------
+
+
+>docker service scale demoservice=3 
+///here demoservice is the name of service you can change as per your service name
+
+----to check scale of service follow the steps below-----------
+
+> docker service ls
+
+> docker service ps demoservice
+///here demoservice is the name of service you can change as per your service name
