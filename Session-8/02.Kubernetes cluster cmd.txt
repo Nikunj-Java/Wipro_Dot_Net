@@ -1,0 +1,17 @@
+
+goto> microsoft azure cmd and run the below commands after preparing kubernatese cluster
+step: 1
+
+> az login
+
+step:2 
+
+> az aks get-credentials --resource-group MyCluster1 --name MyCluster1
+
+<MyCluster1> is my name for resourcegroup
+<MyCluster1> is my name for Kubernates cluster
+
+change as per your globalnaming convension
+
+step:3
+>  kubectl get nodes
